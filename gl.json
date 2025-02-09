@@ -2249,11 +2249,11 @@
   "support_public_description": "O equipo de desenvolvemento do ABRP prioriza os erros e melloras publicadas nos nosos foros públicos, por favor tenta publicar neles.",
   "support_private_issue": "Teño un problema",
   "report_image_title": "Por que denuncias esta imaxe?",
-  "tesla_streaming_update_permissions": "Update Tesla ABRP Permissions",
-  "tesla_streaming_update_permissions_description": "You may be lacking some permissions at Tesla. Press the button below to check and update.",
-  "remove_amenity": "Remove amenity",
-  "remove_amenity_first_description": "To be able to remove the first step, you first need to remove the amenity after it.",
-  "clearing_plan": "Clearing plan...",
-  "routes": "Routes",
-  "next_charger": "Next charger"
+  "tesla_streaming_update_permissions": "Actualizar os permisos de Tesla do ABRP",
+  "tesla_streaming_update_permissions_description": "É posíbel que falten permisos de Tesla. Preme no botón de abaixo para verificar e actualizar.",
+  "remove_amenity": "Eliminar servizo",
+  "remove_amenity_first_description": "Para eliminar a primeira parada, antes tes que eliminar o servizo que ten definido.",
+  "clearing_plan": "Eliminando ruta...",
+  "routes": "Rutas",
+  "next_charger": "Seguinte cargador"
 }
